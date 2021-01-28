@@ -3,3 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  background-color: rgb(65, 179, 224);
+}
+.buttons {
+  max-width:100%;
+  justify-content: space-evenly;
+}
